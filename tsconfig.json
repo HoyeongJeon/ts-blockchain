@@ -1,0 +1,11 @@
+{
+    "compileOption": {
+        "module":"commonjs",
+        "target":"ES6",
+        "sourceMap": true
+    },
+    "include": [
+        "./index.ts"
+    ],
+    "exclude":["./node_modules"]
+}

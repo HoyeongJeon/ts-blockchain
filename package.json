@@ -1,0 +1,24 @@
+{
+  "name": "ts-blockchain",
+  "version": "1.0.0",
+  "description": "Basic study about typescript using blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoyeongJeon/ts-blockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoyeongJeon/ts-blockchain/issues"
+  },
+  "homepage": "https://github.com/HoyeongJeon/ts-blockchain#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}

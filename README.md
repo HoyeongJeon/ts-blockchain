@@ -1,3 +1,3 @@
 # Typescript basic with blockchain
 
-Basic study about typescript using blockchain
+Basic study about typescript using blockchainnpm
