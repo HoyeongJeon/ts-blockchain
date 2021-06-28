@@ -1,11 +1,12 @@
 {
-    "compileOption": {
-        "module":"commonjs",
-        "target":"ES6",
-        "sourceMap": true
-    },
-    "include": [
-        "./index.ts"
-    ],
-    "exclude":["./node_modules"]
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES2015",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "rootDir": "src"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["./node_modules"]
 }
